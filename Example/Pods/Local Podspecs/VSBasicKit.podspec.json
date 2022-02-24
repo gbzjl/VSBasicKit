@@ -1,0 +1,22 @@
+{
+  "name": "VSBasicKit",
+  "version": "0.1.0",
+  "summary": "A short description of VSBasicKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/gbzjl/VSBasicKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "gbzjl": "feifei.deng@versa-ai.com"
+  },
+  "source": {
+    "git": "https://github.com/gbzjl/VSBasicKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "VSBasicKit/Classes/**/*"
+}

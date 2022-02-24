@@ -1,0 +1,16 @@
+PODS:
+  - VSBasicKit (0.1.0)
+
+DEPENDENCIES:
+  - VSBasicKit (from `../`)
+
+EXTERNAL SOURCES:
+  VSBasicKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  VSBasicKit: 860263060a7c3bf35b0e60ee0f5970ef661d85c5
+
+PODFILE CHECKSUM: cbcabe17e92c3273cd4a2d44cdbc74ce1c37f13f
+
+COCOAPODS: 1.11.2
